@@ -36,7 +36,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-To be honest, I didn't really learn much beyond how fast I can do this with a simple stylesheet. Once I downloaded the assets and did the initial commit, the actual creation of the semantic HTML and the styling only took like 15 minutes. And then another 20 minutes trimming this template .md for submission.
+To be honest, I didn't really learn much beyond how fast I can do this with a simple stylesheet. Once I downloaded the assets and did the initial commit, the actual creation of the semantic HTML and the styling only took like 15 minutes. And then another 20 minutes trimming this template .md for submission. Whoo!
 
 ## Author
 
