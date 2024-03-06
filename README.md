@@ -23,7 +23,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - [Solution URL](https://github.com/nic-vo/fem_qr-code)
-- [Live](https://your-live-site-url.com)
+- [Live](https://nic-vo.github.io/fem_qr-code/)
 
 ## My process
 
